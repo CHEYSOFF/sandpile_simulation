@@ -1,6 +1,9 @@
 
 В проекте реализована [Модель песчаной кучи](https://en.wikipedia.org/wiki/Abelian_sandpile_model), позволяющая сохранять свои состояния в картинку в [формате BMP](https://en.wikipedia.org/wiki/BMP_file_format). 
 
+Пример исполнения программы в gif формате:  
+![out](https://user-images.githubusercontent.com/66472023/213152962-5faf4fa0-2d81-4103-9c8b-2dbe0ecf3009.gif)
+
 Изначальное состояние и размер сетки задается.  
 
 Размер сетки может изменяться в процессе
